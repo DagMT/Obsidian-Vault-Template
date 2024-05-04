@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "06 - Daily",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
+    },
+    {
+      "folder": "01 - Projects",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Projects.md"
+    },
+    {
+      "folder": "02 - Areas",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Areas.md"
+    },
+    {
+      "folder": "03 - Resources",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Resources.md"
     }
   ],
   "syntax_highlighting": true,
@@ -24,8 +36,6 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    ""
-  ],
+  "startup_templates": [],
   "enable_ribbon_icon": true
 }

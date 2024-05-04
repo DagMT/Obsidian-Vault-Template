@@ -1,22 +1,222 @@
 {
-  "main": {},
+  "main": {
+    "id": "18b1c3f070c21da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "687edf79f4c9f193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613f2a3162b9d7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Backend Development/User Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eba9cebc639a929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d52b313346e2b3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d50b28344345dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ffd37a1175b8222",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08f47ca94ef1e374",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21fe605cd82e0cf2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "de86dd730f3eead0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "500bdbb688132df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cfa4d507f575a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29fcdac0ad4ce7fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0331037136555ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec692e07c3d5456c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4c599215ce130ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d9a8f43b785395da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md"
+              }
+            }
+          },
+          {
+            "id": "9a7c58318d775717",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
-      "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": true,
+      "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-spaced-repetition:Review flashcards": true,
       "obsidian-importer:Open Importer": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
       "templater-obsidian:Templater": true,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "",
-  "lastOpenFiles": []
+  "active": "9eba9cebc639a929",
+  "lastOpenFiles": [
+    "02 - Areas/Backend Development/User Management.md",
+    "06 - Daily/20240504.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Areas.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Projects.md",
+    "01 - Projects/Animetour - Nuxt 3/Supabase User Management.md",
+    "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+    "03 - Resources/Placeholder.md",
+    "02 - Areas/Frontend Development/Nuxt3.md",
+    "02 - Areas/Placeholder.md",
+    "02 - Areas/Backend Development/Untitled",
+    "02 - Areas/Backend Development",
+    "Untitled.md",
+    "02 - Areas/Frontend Development",
+    "01 - Projects/Placeholder.md",
+    "01 - Projects/Animetour - Nuxt 3",
+    "A",
+    "03 - Resources/Untitled.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Resources.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "06 - Daily/Untitled.md",
+    "06 - Daily/Placeholder.md"
+  ]
 }

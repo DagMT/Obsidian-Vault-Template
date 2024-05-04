@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "datetime",
-    "transcription": "multitext"
+    "transcription": "multitext",
+    "start": "date",
+    "deadline": "date"
   }
 }

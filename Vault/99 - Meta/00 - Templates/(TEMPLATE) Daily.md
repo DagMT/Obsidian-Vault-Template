@@ -9,12 +9,20 @@ cssclasses:
 # DAILY NOTE
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
 ***
-### Journal
+# Quest
+---
 #### TIME
-Customize this template to your liking!
+- # 8:00 AM - (Minutes)
+	- 
 ...
 ***
 ### Tasks
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+
+
+
+# Journal
+---
