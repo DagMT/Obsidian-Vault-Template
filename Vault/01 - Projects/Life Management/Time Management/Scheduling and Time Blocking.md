@@ -8,10 +8,8 @@ deadline:
 cssclasses:
   - center-titles
 ---
-# Title
+# Calendar Time Blocking
 ---
-
-
 
 
 

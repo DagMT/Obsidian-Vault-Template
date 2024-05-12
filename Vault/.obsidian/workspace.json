@@ -8,31 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "613f2a3162b9d7d4",
+            "id": "615b7a1dbfc47565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Backend Development/User Management.md",
+                "file": "01 - Projects/Sparta Management/UI Design/Wireframes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9eba9cebc639a929",
+            "id": "9d6cd4294560dbe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "file": "06 - Daily/20240511.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637cd85eebd82077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30013fc495f2409f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ce4d491c82dcd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/The Trident System.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "file": "05 - Fleeting/The Trident System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
+                "file": "05 - Fleeting/The Trident System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md"
+                "file": "05 - Fleeting/The Trident System.md"
               }
             }
           },
@@ -194,29 +230,53 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "9eba9cebc639a929",
+  "active": "3ce4d491c82dcd07",
   "lastOpenFiles": [
-    "02 - Areas/Backend Development/User Management.md",
-    "06 - Daily/20240504.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Areas.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Projects.md",
-    "01 - Projects/Animetour - Nuxt 3/Supabase User Management.md",
-    "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md",
-    "03 - Resources/Placeholder.md",
-    "02 - Areas/Frontend Development/Nuxt3.md",
-    "02 - Areas/Placeholder.md",
-    "02 - Areas/Backend Development/Untitled",
-    "02 - Areas/Backend Development",
-    "Untitled.md",
-    "02 - Areas/Frontend Development",
-    "01 - Projects/Placeholder.md",
-    "01 - Projects/Animetour - Nuxt 3",
-    "A",
-    "03 - Resources/Untitled.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Resources.md",
+    "06 - Daily/20240512.md",
+    "05 - Fleeting/The Trident System.md",
+    "01 - Projects/Sparta Management/UI Design/Wireframes.md",
+    "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth/Signup Layout.md",
+    "01 - Projects/Animetour - Nuxt 3/Backend/API/Animelist.md",
+    "04 - Permanent/Note Taking/How to Progressive Summarize.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "06 - Daily/Untitled.md",
-    "06 - Daily/Placeholder.md"
+    "Pasted image 20240512081501.png",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Fleeting.md",
+    "Pasted image 20240512081452.png",
+    "Pasted image 20240512081211.png",
+    "06 - Daily/20240511.md",
+    "06 - Daily/20240510.md",
+    "Pasted image 20240511155010.png",
+    "Pasted image 20240511154927.png",
+    "99 - Resource/2024-05-09 09.00.24.jpg",
+    "99 - Resource",
+    "99 - Resource/I.md",
+    "99 - Resource/Inspiration and Content Notes.jpeg",
+    "02 - Areas/Website/Frontend Development/UI Design/Website Design.md",
+    "06 - Daily/20240509.md",
+    "99 - Resource/Wireframe 2.jpeg",
+    "99 - Resource/Wireframe 1.jpeg",
+    "99 - Resource/Pasted image 20240509090257.png",
+    "02 - Areas/Website/Frontend Development/UI Design",
+    "01 - Projects/Sparta Management/UI Design",
+    "06 - Daily/20240505.md",
+    "01 - Projects/Sparta Management",
+    "03 - Resources/Animetour/Animelist Resources.md",
+    "03 - Resources/Animetour",
+    "03 - Resources/Untitled.md",
+    "03 - Resources/Placeholder.md",
+    "06 - Daily/20240508.md",
+    "01 - Projects/Animetour - Nuxt 3/Backend/API",
+    "06 - Daily/20240504.md",
+    "06 - Daily/20240506.md",
+    "06 - Daily/20240507.md",
+    "05 - Fleeting/Progressive Summarization.md",
+    "05 - Fleeting/Untitled.md",
+    "04 - Permanent/Placeholder.md",
+    "05 - Fleeting/Placeholder.md",
+    "04 - Permanent/Note Taking",
+    "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth",
+    "01 - Projects/Animetour - Nuxt 3/Backend/User Auth",
+    "01 - Projects/Animetour - Nuxt 3/Backend"
   ]
 }

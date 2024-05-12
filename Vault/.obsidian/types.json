@@ -6,6 +6,7 @@
     "date": "datetime",
     "transcription": "multitext",
     "start": "date",
-    "deadline": "date"
+    "deadline": "date",
+    "created": "date"
   }
 }

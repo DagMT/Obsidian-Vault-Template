@@ -1,52 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "Supabase Auth",
-      "path": "01 - Projects/Animetour - Nuxt 3/Supabase Auth.md"
+      "basename": "The Trident System",
+      "path": "05 - Fleeting/The Trident System.md"
     },
     {
-      "basename": "User Management",
-      "path": "02 - Areas/Backend Development/User Management.md"
+      "basename": "20240512",
+      "path": "06 - Daily/20240512.md"
     },
     {
-      "basename": "20240504",
-      "path": "06 - Daily/20240504.md"
+      "basename": "Wireframes",
+      "path": "01 - Projects/Sparta Management/UI Design/Wireframes.md"
     },
     {
-      "basename": "(TEMPLATE) Areas",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Areas.md"
+      "basename": "Signup Layout",
+      "path": "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth/Signup Layout.md"
     },
     {
-      "basename": "(TEMPLATE) Projects",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Projects.md"
+      "basename": "Animelist",
+      "path": "01 - Projects/Animetour - Nuxt 3/Backend/API/Animelist.md"
     },
     {
-      "basename": "Supabase User Management",
-      "path": "01 - Projects/Animetour - Nuxt 3/Supabase User Management.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "03 - Resources/Placeholder.md"
-    },
-    {
-      "basename": "Nuxt3",
-      "path": "02 - Areas/Frontend Development/Nuxt3.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "03 - Resources/Untitled.md"
-    },
-    {
-      "basename": "(TEMPLATE) Resources",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Resources.md"
+      "basename": "How to Progressive Summarize",
+      "path": "04 - Permanent/Note Taking/How to Progressive Summarize.md"
     },
     {
       "basename": "(TEMPLATE) Daily",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
     },
     {
+      "basename": "(TEMPLATE) Daily (Vanilla)",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
+    },
+    {
+      "basename": "(TEMPLATE) Fleeting",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Fleeting.md"
+    },
+    {
+      "basename": "20240511",
+      "path": "06 - Daily/20240511.md"
+    },
+    {
+      "basename": "20240510",
+      "path": "06 - Daily/20240510.md"
+    },
+    {
+      "basename": "2024-05-09 09.00.24",
+      "path": "99 - Resource/2024-05-09 09.00.24.jpg"
+    },
+    {
+      "basename": "I",
+      "path": "99 - Resource/I.md"
+    },
+    {
+      "basename": "Inspiration and Content Notes",
+      "path": "99 - Resource/Inspiration and Content Notes.jpeg"
+    },
+    {
+      "basename": "Website Design",
+      "path": "02 - Areas/Website/Frontend Development/UI Design/Website Design.md"
+    },
+    {
+      "basename": "20240509",
+      "path": "06 - Daily/20240509.md"
+    },
+    {
+      "basename": "20240505",
+      "path": "06 - Daily/20240505.md"
+    },
+    {
+      "basename": "20240508",
+      "path": "06 - Daily/20240508.md"
+    },
+    {
+      "basename": "Animelist Resources",
+      "path": "03 - Resources/Animetour/Animelist Resources.md"
+    },
+    {
+      "basename": "20240504",
+      "path": "06 - Daily/20240504.md"
+    },
+    {
+      "basename": "20240506",
+      "path": "06 - Daily/20240506.md"
+    },
+    {
+      "basename": "20240507",
+      "path": "06 - Daily/20240507.md"
+    },
+    {
+      "basename": "Progressive Summarization",
+      "path": "05 - Fleeting/Progressive Summarization.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "05 - Fleeting/Untitled.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "04 - Permanent/Placeholder.md"
+    },
+    {
+      "basename": "(TEMPLATE) Permanent",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Permanent.md"
+    },
+    {
+      "basename": "(TEMPLATE) Resources",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Resources.md"
+    },
+    {
+      "basename": "(TEMPLATE) Projects",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Projects.md"
+    },
+    {
+      "basename": "(TEMPLATE) Areas",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Areas.md"
+    },
+    {
       "basename": "(TEMPLATE) Unique",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
+    },
+    {
+      "basename": "Supabase User Management",
+      "path": "01 - Projects/Animetour - Nuxt 3/Backend/User Auth/Supabase User Management.md"
+    },
+    {
+      "basename": "Supabase Auth",
+      "path": "01 - Projects/Animetour - Nuxt 3/Backend/User Auth/Supabase Auth.md"
+    },
+    {
+      "basename": "Daily Journaling",
+      "path": "01 - Projects/Life Management/Journaling/Daily Journaling.md"
+    },
+    {
+      "basename": "Journaling",
+      "path": "03 - Resources/Life Management/Journaling.md"
+    },
+    {
+      "basename": "Gratitude Journaling",
+      "path": "01 - Projects/Life Management/Journaling/Gratitude Journaling.md"
+    },
+    {
+      "basename": "Managing Life",
+      "path": "02 - Areas/Productivity/Life Management/Managing Life.md"
+    },
+    {
+      "basename": "User Management",
+      "path": "02 - Areas/Website/Backend Development/User Management.md"
+    },
+    {
+      "basename": "Scheduling and Time Blocking",
+      "path": "01 - Projects/Life Management/Time Management/Scheduling and Time Blocking.md"
+    },
+    {
+      "basename": "Nuxt3",
+      "path": "02 - Areas/Website/Frontend Development/Nuxt3.md"
     }
   ],
   "omittedPaths": [],

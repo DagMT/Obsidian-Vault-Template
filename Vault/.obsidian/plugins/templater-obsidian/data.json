@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "99 - Meta/00 - Templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -29,6 +29,14 @@
     {
       "folder": "03 - Resources",
       "template": "99 - Meta/00 - Templates/(TEMPLATE) Resources.md"
+    },
+    {
+      "folder": "05 - Fleeting",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Fleeting.md"
+    },
+    {
+      "folder": "04 - Permanent",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) Permanent.md"
     }
   ],
   "syntax_highlighting": true,
