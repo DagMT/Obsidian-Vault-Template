@@ -20,55 +20,87 @@
             }
           },
           {
-            "id": "9d6cd4294560dbe8",
+            "id": "f6a760b8efb87c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240511.md",
+                "file": "06 - Daily/20240521.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "637cd85eebd82077",
+            "id": "5f2ce86471b5f586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "file": "06 - Daily/20240522.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30013fc495f2409f",
+            "id": "4414e6832278c2fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "file": "06 - Daily/20240523.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3ce4d491c82dcd07",
+            "id": "5196a226b9dc9ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/The Trident System.md",
+                "file": "06 - Daily/20240524.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a4f0d4ba6a86c6c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "283be637127315ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240527.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61d78e90b8d50d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20240528.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Fleeting/The Trident System.md",
+                "file": "06 - Daily/20240528.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Fleeting/The Trident System.md",
+                "file": "06 - Daily/20240528.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Fleeting/The Trident System.md"
+                "file": "06 - Daily/20240528.md"
               }
             }
           },
@@ -230,53 +262,53 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "3ce4d491c82dcd07",
+  "active": "61d78e90b8d50d0d",
   "lastOpenFiles": [
-    "06 - Daily/20240512.md",
-    "05 - Fleeting/The Trident System.md",
-    "01 - Projects/Sparta Management/UI Design/Wireframes.md",
+    "03 - Resources/Animetour/Animelist Resources.md",
     "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth/Signup Layout.md",
+    "06 - Daily/20240528.md",
+    "06 - Daily/20240527.md",
+    "06 - Daily/20240524.md",
+    "06 - Daily/20240523.md",
+    "06 - Daily/20240522.md",
+    "06 - Daily/20240521.md",
+    "06 - Daily/20240520.md",
+    "imm0008enu_2d.pdf",
+    "01 - Projects/Sparta Management/UI Design/Wireframes.md",
+    "06 - Daily/20240519.md",
+    "05 - Fleeting/The Trident System.md",
+    "05 - Fleeting/Progressive Summarization.md",
+    "06 - Daily/20240518.md",
+    "imm5669e.pdf",
+    "imm5532e.pdf",
+    "imm5444e.pdf",
+    "imm5406e.pdf",
+    "06 - Daily/20240517.md",
+    "06 - Daily/20240516.md",
+    "06 - Daily/20240515.md",
+    "Pasted image 20240515154132.png",
+    "06 - Daily/20240514.md",
+    "06 - Daily/20240513.md",
+    "06 - Daily/20240511.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "06 - Daily/20240512.md",
     "01 - Projects/Animetour - Nuxt 3/Backend/API/Animelist.md",
     "04 - Permanent/Note Taking/How to Progressive Summarize.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "Pasted image 20240512081501.png",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Fleeting.md",
     "Pasted image 20240512081452.png",
     "Pasted image 20240512081211.png",
-    "06 - Daily/20240511.md",
-    "06 - Daily/20240510.md",
     "Pasted image 20240511155010.png",
     "Pasted image 20240511154927.png",
     "99 - Resource/2024-05-09 09.00.24.jpg",
     "99 - Resource",
-    "99 - Resource/I.md",
     "99 - Resource/Inspiration and Content Notes.jpeg",
-    "02 - Areas/Website/Frontend Development/UI Design/Website Design.md",
-    "06 - Daily/20240509.md",
     "99 - Resource/Wireframe 2.jpeg",
     "99 - Resource/Wireframe 1.jpeg",
-    "99 - Resource/Pasted image 20240509090257.png",
     "02 - Areas/Website/Frontend Development/UI Design",
     "01 - Projects/Sparta Management/UI Design",
-    "06 - Daily/20240505.md",
     "01 - Projects/Sparta Management",
-    "03 - Resources/Animetour/Animelist Resources.md",
-    "03 - Resources/Animetour",
-    "03 - Resources/Untitled.md",
-    "03 - Resources/Placeholder.md",
-    "06 - Daily/20240508.md",
-    "01 - Projects/Animetour - Nuxt 3/Backend/API",
-    "06 - Daily/20240504.md",
-    "06 - Daily/20240506.md",
-    "06 - Daily/20240507.md",
-    "05 - Fleeting/Progressive Summarization.md",
-    "05 - Fleeting/Untitled.md",
-    "04 - Permanent/Placeholder.md",
-    "05 - Fleeting/Placeholder.md",
-    "04 - Permanent/Note Taking",
-    "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth",
-    "01 - Projects/Animetour - Nuxt 3/Backend/User Auth",
-    "01 - Projects/Animetour - Nuxt 3/Backend"
+    "03 - Resources/Animetour"
   ]
 }

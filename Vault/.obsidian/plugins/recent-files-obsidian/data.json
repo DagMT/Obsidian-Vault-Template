@@ -1,20 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "The Trident System",
-      "path": "05 - Fleeting/The Trident System.md"
+      "basename": "20240528",
+      "path": "06 - Daily/20240528.md"
     },
     {
-      "basename": "20240512",
-      "path": "06 - Daily/20240512.md"
+      "basename": "Animelist Resources",
+      "path": "03 - Resources/Animetour/Animelist Resources.md"
+    },
+    {
+      "basename": "Signup Layout",
+      "path": "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth/Signup Layout.md"
+    },
+    {
+      "basename": "20240527",
+      "path": "06 - Daily/20240527.md"
+    },
+    {
+      "basename": "20240524",
+      "path": "06 - Daily/20240524.md"
+    },
+    {
+      "basename": "20240523",
+      "path": "06 - Daily/20240523.md"
+    },
+    {
+      "basename": "20240522",
+      "path": "06 - Daily/20240522.md"
+    },
+    {
+      "basename": "20240521",
+      "path": "06 - Daily/20240521.md"
+    },
+    {
+      "basename": "20240520",
+      "path": "06 - Daily/20240520.md"
+    },
+    {
+      "basename": "imm0008enu_2d",
+      "path": "imm0008enu_2d.pdf"
     },
     {
       "basename": "Wireframes",
       "path": "01 - Projects/Sparta Management/UI Design/Wireframes.md"
     },
     {
-      "basename": "Signup Layout",
-      "path": "01 - Projects/Animetour - Nuxt 3/Frontend/User Auth/Signup Layout.md"
+      "basename": "20240519",
+      "path": "06 - Daily/20240519.md"
+    },
+    {
+      "basename": "The Trident System",
+      "path": "05 - Fleeting/The Trident System.md"
+    },
+    {
+      "basename": "Progressive Summarization",
+      "path": "05 - Fleeting/Progressive Summarization.md"
+    },
+    {
+      "basename": "20240518",
+      "path": "06 - Daily/20240518.md"
+    },
+    {
+      "basename": "20240517",
+      "path": "06 - Daily/20240517.md"
+    },
+    {
+      "basename": "20240516",
+      "path": "06 - Daily/20240516.md"
+    },
+    {
+      "basename": "20240515",
+      "path": "06 - Daily/20240515.md"
+    },
+    {
+      "basename": "20240514",
+      "path": "06 - Daily/20240514.md"
+    },
+    {
+      "basename": "20240513",
+      "path": "06 - Daily/20240513.md"
+    },
+    {
+      "basename": "20240511",
+      "path": "06 - Daily/20240511.md"
+    },
+    {
+      "basename": "(TEMPLATE) Daily",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
+    },
+    {
+      "basename": "20240512",
+      "path": "06 - Daily/20240512.md"
     },
     {
       "basename": "Animelist",
@@ -25,20 +101,12 @@
       "path": "04 - Permanent/Note Taking/How to Progressive Summarize.md"
     },
     {
-      "basename": "(TEMPLATE) Daily",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
-    },
-    {
       "basename": "(TEMPLATE) Daily (Vanilla)",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
     },
     {
       "basename": "(TEMPLATE) Fleeting",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Fleeting.md"
-    },
-    {
-      "basename": "20240511",
-      "path": "06 - Daily/20240511.md"
     },
     {
       "basename": "20240510",
@@ -73,10 +141,6 @@
       "path": "06 - Daily/20240508.md"
     },
     {
-      "basename": "Animelist Resources",
-      "path": "03 - Resources/Animetour/Animelist Resources.md"
-    },
-    {
       "basename": "20240504",
       "path": "06 - Daily/20240504.md"
     },
@@ -87,10 +151,6 @@
     {
       "basename": "20240507",
       "path": "06 - Daily/20240507.md"
-    },
-    {
-      "basename": "Progressive Summarization",
-      "path": "05 - Fleeting/Progressive Summarization.md"
     },
     {
       "basename": "Untitled",
@@ -139,22 +199,6 @@
     {
       "basename": "Gratitude Journaling",
       "path": "01 - Projects/Life Management/Journaling/Gratitude Journaling.md"
-    },
-    {
-      "basename": "Managing Life",
-      "path": "02 - Areas/Productivity/Life Management/Managing Life.md"
-    },
-    {
-      "basename": "User Management",
-      "path": "02 - Areas/Website/Backend Development/User Management.md"
-    },
-    {
-      "basename": "Scheduling and Time Blocking",
-      "path": "01 - Projects/Life Management/Time Management/Scheduling and Time Blocking.md"
-    },
-    {
-      "basename": "Nuxt3",
-      "path": "02 - Areas/Website/Frontend Development/Nuxt3.md"
     }
   ],
   "omittedPaths": [],
